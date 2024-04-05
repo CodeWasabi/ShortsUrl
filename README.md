@@ -1,4 +1,4 @@
 # ShortsUrl
 
 
-Licence: CCL-BY-NC-SA 
+Licence: GPL-3.0 license
